@@ -1,0 +1,15 @@
+Package: integratedyukontiming
+Title: Integrated Yukon Timing
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Bryce",
+           family = "Mecum",
+           role = c("aut", "cre"),
+           email = "petridish@gmail.com",
+           comment = c(ORCID = "0000-0002-0381-3766"))
+Description: An integrated run timing model for Yukon River Chinook.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat
