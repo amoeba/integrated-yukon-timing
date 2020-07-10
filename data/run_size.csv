@@ -1,30 +1,39 @@
-year,runsize,source
-1982," 293,947 ",linderman inferred
-1983," 320,097 ",linderman inferred
-1984," 221,792 ",linderman inferred
-1985," 289,104 ",linderman inferred
-1986," 317,676 ",linderman inferred
-1987," 348,184 ",linderman inferred
-1988," 291,041 ",linderman inferred
-1989," 328,814 ",linderman inferred
-1990," 301,211 ",linderman inferred
-1991," 247,458 ",linderman inferred
-1992," 307,990 ",linderman inferred
-1993," 262,954 ",linderman inferred
-1994," 345,278 ",linderman inferred
-1995," 340,436 ",linderman inferred
-1996," 364,649 ",linderman inferred
-1997," 322,034 ",linderman inferred
-1998," 176,271 ",linderman inferred
-1999," 220,823 ",linderman inferred
-2000," 104,116 ",linderman inferred
-2001," 171,913 ",linderman inferred
-2002," 162,228 ",linderman inferred
-2003," 299,758 ",linderman inferred
-2004," 234,867 ",linderman inferred
-2005," 240,678 ",linderman inferred
-2006," 176,755 ",linderman inferred
-2007," 176,271 ",linderman inferred
-2008," 123,971 ",linderman inferred
-2009," 173,850 ",linderman inferred
-2010," 136,077 ",linderman inferred
+year,runsize
+1982,295174
+1983,320440
+1984,222069
+1985,290720
+1986,318164
+1987,348258
+1988,291351
+1989,329033
+1990,302376
+1991,248763
+1992,308438
+1993,263055
+1994,345769
+1995,351802
+1996,365007
+1997,321471
+1998,168429
+1999,260944
+2000,79035
+2001,142300
+2002,192147
+2003,375351
+2004,279362
+2005,304534
+2006,293308
+2007,224759
+2008,201001
+2009,194059
+2010,165160
+2011,171690
+2012,144478
+2013,144753
+2014,178200
+2015,161749
+2016,188551
+2017,278166
+2018,177679
+2019,248855
